@@ -10,7 +10,7 @@ import Notification from "./Notification";
 import CompanyLogos from "./CompanyLogos";
 
 const Hero = () => {
-  const parallaxRef = useRef(nul);
+  const parallaxRef = useRef(null);
 
   return (
     <Section
